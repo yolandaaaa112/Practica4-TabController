@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Practica4-TabController
 //
-//  Created by Alan Olivares on 18/09/18.
-//  Copyright © 2018 Alan Olivares. All rights reserved.
+//  Created by Yola on 18/09/18.
+//  Copyright © 2018 Yola. All rights reserved.
 //
 
 import UIKit
